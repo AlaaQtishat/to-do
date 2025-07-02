@@ -1,16 +1,23 @@
-# todoey
+# 📝 To-do App - Your Daily Task Manager
 
-A new Flutter project.
+## ✨ Overview
 
-## Getting Started
+The To-do app is a simple yet effective task manager designed to help you easily track and organize your daily tasks. You can add new tasks, mark them as complete, and delete them. It's a perfect app for managing personal to-do lists.
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+* **Add New Tasks:** Quickly and easily add new tasks to your list.
+* **Mark Tasks as Complete:** Tick off tasks once you've accomplished them.
+* **Delete Tasks:** Remove unwanted or completed tasks from your list.
+* **Simple User Interface:** Clean and intuitive design for a smooth user experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screenshots/Screenshot_20250702_222904_com.example.todoey.jpg" width="250"/>
+
+<img src="screenshots/Screenshot_20250702_223158_com.example.todoey.jpg" width="250"/>
+
+## 🛠️ Built With
+
+- Flutter
+- Dart
